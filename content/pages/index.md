@@ -14,7 +14,7 @@ sections:
       Santander y Colombia.
 
     actions:
-      - label: Get started
+      - label: Agenda tu cita
         altText: ''
         url: /
         showIcon: false
