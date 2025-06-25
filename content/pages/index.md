@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: SERVICIOS INTEGRADOS
+      text: SERVICIOS INTEGRADOS DE SALUD OCUPACIONAL
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
