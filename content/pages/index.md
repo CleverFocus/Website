@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: SISOCOL S.A.S
       color: text-primary
       type: Badge
     elementId: ''
