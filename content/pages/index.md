@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Prevencion de riesgos laborales
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **SISOCOL S.A.S.** brinda soluciones en salud ocupacional que impulsan el
+      rendimiento laboral y el cumplimiento normativo, con presencia en
+      Santander y Colombia.
+
     actions:
       - label: Get started
         altText: ''
