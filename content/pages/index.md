@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: '/images/ChatGPT Image Jun 25, 2025, 06_13_58 PM.png'
       altText: ''
       elementId: ''
       type: ImageBlock
